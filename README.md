@@ -41,9 +41,6 @@ Pizza-Sales-Report/
 ├── pizza_sales_excel_file - pizza_sales.csv   # Raw sales dataset
 ├── PIZZA REPORT powerBi.pbix                  # Power BI dashboard file
 ├── PIZZA SALES REPORT.docx                    # Project report with SQL queries
-├── Screenshot 2025-09-14 222320.png           # Dashboard screenshot – Home
-├── Screenshot 2025-09-14 222335.png           # Dashboard screenshot – Best/Worst Sellers
-├── Screenshot 2025-09-14 223057.png           # SQL query validation screenshot
 └── README.md
 ```
 
@@ -149,5 +146,3 @@ Key columns include:
 B.Tech Computer Science & Engineering  
 Vellore Institute of Technology (VIT)  
 [GitHub Profile](https://github.com/mohanish0703)
-![report](https://github.com/mohanish0703/Pizza-Sales-Report/blob/31c599ad27a8b10ab7a9f31f6f5c37aff01c0fbe/Screenshot%202025-09-14%20222320.png)
-![report](https://github.com/mohanish0703/Pizza-Sales-Report/blob/df31740fb53b4218ff1c537507174fa07b49b0cb/Screenshot%202025-09-14%20223057.png)
